@@ -4,3 +4,6 @@ background-size:100%;
 background-position: top;
 background-attachment: fixed;
 }
+#blog_title {
+    color: black; /* set your desired color value here */
+  }
