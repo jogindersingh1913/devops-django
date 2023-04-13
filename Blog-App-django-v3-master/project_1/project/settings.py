@@ -25,7 +25,7 @@ SECRET_KEY = '+_y5p=oj2uk#a1!k*4rlcm)01@s@ud1_er%kenn^@)p!^b6-u3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['172.31.44.210','nciblogapp.ap-southeast-1.elasticbeanstalk.com','*']
 
 
 # Application definition
